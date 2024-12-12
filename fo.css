@@ -1,0 +1,33 @@
+.image{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    height: 100vh;
+    background-size: cover;
+
+}
+.raw{
+    background-color: #f6c56e;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+   padding: 10px;
+   padding-left: 150px;
+   margin-left:350px;
+   margin-right: 350px;
+    
+}
+.drive{
+    font-family:" bree serif";
+
+}
+.para{
+    font-family: "Roboto";
+    font-weight: bolder;
+}
+.button{
+    background-color: white;
+    border-style: solid;
+    border-color: aliceblue;
+    height: 30px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: "roboto";
+}
